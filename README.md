@@ -1,2 +1,1 @@
-# rsschool-cv
-CV for RS School
+https://a-scarlett.github.io/rsschool-cv/
