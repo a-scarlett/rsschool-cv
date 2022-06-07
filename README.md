@@ -1,2 +1,2 @@
 # rsschool-cv
-CV for RS School
+Ссылка на CV:https://a-scarlett.github.io/rsschool-cv/cv
